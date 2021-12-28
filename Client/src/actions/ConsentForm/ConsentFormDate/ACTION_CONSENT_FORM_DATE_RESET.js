@@ -1,9 +1,0 @@
-const CONSENT_FORM_DATE_RESET = "CONSENT_FORM_DATE_RESET";
-
-const ACTION_CONSENT_FORM_DATE_RESET = () => {
-  return {
-    type: CONSENT_FORM_DATE_RESET,
-  };
-};
-
-export default ACTION_CONSENT_FORM_DATE_RESET;

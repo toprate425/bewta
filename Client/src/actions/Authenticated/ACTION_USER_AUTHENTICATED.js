@@ -1,9 +1,0 @@
-const USER_AUTHENTICATED = "USER_AUTHENTICATED";
-
-const ACTION_USER_AUTHENTICATED = () => {
-  return {
-    type: USER_AUTHENTICATED
-  };
-};
-
-export default ACTION_USER_AUTHENTICATED;

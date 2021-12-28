@@ -1,9 +1,0 @@
-const LOGIN_EMAIL_NOT_INVALID = "LOGIN_EMAIL_NOT_INVALID";
-
-const ACTION_LOGIN_EMAIL_NOT_INVALID = () => {
-  return {
-    type: LOGIN_EMAIL_NOT_INVALID
-  };
-};
-
-export default ACTION_LOGIN_EMAIL_NOT_INVALID;

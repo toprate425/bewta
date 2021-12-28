@@ -1,9 +1,0 @@
-const UNSURE_POP_UP_TRIGGERED = "UNSURE_POP_UP_TRIGGERED";
-
-const ACTION_UNSURE_POP_UP_TRIGGERED = () => {
-  return {
-    type: UNSURE_POP_UP_TRIGGERED,
-  };
-};
-
-export default ACTION_UNSURE_POP_UP_TRIGGERED;

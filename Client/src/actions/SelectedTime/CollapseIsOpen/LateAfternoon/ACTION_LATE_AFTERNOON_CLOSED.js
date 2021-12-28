@@ -1,9 +1,0 @@
-const LATE_AFTERNOON_CLOSED = "LATE_AFTERNOON_CLOSED";
-
-const ACTION_LATE_AFTERNOON_CLOSED = () => {
-  return {
-    type: LATE_AFTERNOON_CLOSED
-  };
-};
-
-export default ACTION_LATE_AFTERNOON_CLOSED;

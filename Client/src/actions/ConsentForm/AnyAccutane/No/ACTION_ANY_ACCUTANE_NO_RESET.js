@@ -1,9 +1,0 @@
-const ANY_ACCUTANE_NO_RESET = "ANY_ACCUTANE_NO_RESET";
-
-const ACTION_ANY_ACCUTANE_NO_RESET = () => {
-  return {
-    type: ANY_ACCUTANE_NO_RESET
-  };
-};
-
-export default ACTION_ANY_ACCUTANE_NO_RESET;

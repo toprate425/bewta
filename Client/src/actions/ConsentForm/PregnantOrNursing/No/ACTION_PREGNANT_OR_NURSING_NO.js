@@ -1,9 +1,0 @@
-const PREGNANT_OR_NURSING_NO = "PREGNANT_OR_NURSING_NO";
-
-const ACTION_PREGNANT_OR_NURSING_NO = () => {
-  return {
-    type: PREGNANT_OR_NURSING_NO,
-  };
-};
-
-export default ACTION_PREGNANT_OR_NURSING_NO;

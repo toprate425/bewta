@@ -1,9 +1,0 @@
-const FINAL_BOOK_BUTTON_RESET = "FINAL_BOOK_BUTTON_RESET";
-
-const ACTION_FINAL_BOOK_BUTTON_RESET = () => {
-  return {
-    type: FINAL_BOOK_BUTTON_RESET
-  };
-};
-
-export default ACTION_FINAL_BOOK_BUTTON_RESET;

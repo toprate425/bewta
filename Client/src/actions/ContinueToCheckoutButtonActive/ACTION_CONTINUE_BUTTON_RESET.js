@@ -1,9 +1,0 @@
-const CONTINUE_BUTTON_RESET = "CONTINUE_BUTTON_RESET";
-
-const ACTION_CONTINUE_BUTTON_RESET = () => {
-  return {
-    type: CONTINUE_BUTTON_RESET
-  };
-};
-
-export default ACTION_CONTINUE_BUTTON_RESET;

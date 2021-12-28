@@ -1,9 +1,0 @@
-const DERMAPLANING_TOGGLE = "DERMAPLANING_TOGGLE";
-
-const ACTION_DERMAPLANING_TOGGLE = () => {
-  return {
-    type: DERMAPLANING_TOGGLE
-  };
-};
-
-export default ACTION_DERMAPLANING_TOGGLE;

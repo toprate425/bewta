@@ -1,9 +1,0 @@
-const NAVBAR_NOT_VISIBLE = "NAVBAR_NOT_VISIBLE";
-
-const ACTION_NAVBAR_NOT_VISIBLE = () => {
-  return {
-    type: NAVBAR_NOT_VISIBLE
-  };
-};
-
-export default ACTION_NAVBAR_NOT_VISIBLE;

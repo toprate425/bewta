@@ -1,9 +1,0 @@
-const SALT_CAVE_TOGGLE_RESET = "SALT_CAVE_TOGGLE_RESET";
-
-const ACTION_SALT_CAVE_TOGGLE_RESET = () => {
-  return {
-    type: SALT_CAVE_TOGGLE_RESET,
-  };
-};
-
-export default ACTION_SALT_CAVE_TOGGLE_RESET;

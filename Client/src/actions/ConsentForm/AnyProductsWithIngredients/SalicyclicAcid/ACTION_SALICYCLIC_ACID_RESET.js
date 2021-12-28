@@ -1,9 +1,0 @@
-const SALICYCLIC_ACID_RESET = "SALICYCLIC_ACID_RESET";
-
-const ACTION_SALICYCLIC_ACID_RESET = () => {
-  return {
-    type: SALICYCLIC_ACID_RESET
-  };
-};
-
-export default ACTION_SALICYCLIC_ACID_RESET;

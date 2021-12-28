@@ -1,9 +1,0 @@
-const SELECTED_TIME_RESET = "SELECTED_TIME_RESET";
-
-const ACTION_SELECTED_TIME_RESET = () => {
-  return {
-    type: SELECTED_TIME_RESET
-  };
-};
-
-export default ACTION_SELECTED_TIME_RESET;

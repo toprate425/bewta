@@ -1,9 +1,0 @@
-const MICRONEEDLE_TOGGLE = "MICRONEEDLE_TOGGLE";
-
-const ACTION_MICRONEEDLE_TOGGLE = () => {
-  return {
-    type: MICRONEEDLE_TOGGLE
-  };
-};
-
-export default ACTION_MICRONEEDLE_TOGGLE;

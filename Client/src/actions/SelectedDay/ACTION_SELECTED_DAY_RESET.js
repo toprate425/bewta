@@ -1,9 +1,0 @@
-const SELECTED_DAY_RESET = "SELECTED_DAY_RESET";
-
-const ACTION_SELECTED_DAY_RESET = () => {
-  return {
-    type: SELECTED_DAY_RESET
-  };
-};
-
-export default ACTION_SELECTED_DAY_RESET;

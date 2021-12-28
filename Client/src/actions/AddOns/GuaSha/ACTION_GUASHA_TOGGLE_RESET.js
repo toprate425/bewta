@@ -1,9 +1,0 @@
-const GUASHA_TOGGLE_RESET = "GUASHA_TOGGLE_RESET";
-
-const ACTION_GUASHA_TOGGLE_RESET = () => {
-  return {
-    type: GUASHA_TOGGLE_RESET
-  };
-};
-
-export default ACTION_GUASHA_TOGGLE_RESET;

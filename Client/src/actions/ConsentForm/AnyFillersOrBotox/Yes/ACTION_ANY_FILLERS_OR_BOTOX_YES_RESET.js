@@ -1,9 +1,0 @@
-const ANY_FILLERS_OR_BOTOX_YES = "ANY_FILLERS_OR_BOTOX_YES";
-
-const ACTION_ANY_FILLERS_OR_BOTOX_YES = () => {
-  return {
-    type: ANY_FILLERS_OR_BOTOX_YES
-  };
-};
-
-export default ACTION_ANY_FILLERS_OR_BOTOX_YES;

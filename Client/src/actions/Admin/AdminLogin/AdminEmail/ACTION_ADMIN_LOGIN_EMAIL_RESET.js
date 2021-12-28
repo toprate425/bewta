@@ -1,9 +1,0 @@
-const ADMIN_LOGIN_EMAIL_RESET = "ADMIN_LOGIN_EMAIL_RESET";
-
-const ACTION_ADMIN_LOGIN_EMAIL_RESET = () => {
-  return {
-    type: ADMIN_LOGIN_EMAIL_RESET,
-  };
-};
-
-export default ACTION_ADMIN_LOGIN_EMAIL_RESET;

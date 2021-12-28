@@ -1,9 +1,0 @@
-const NANONEEDLING_TOGGLE = "NANONEEDLING_TOGGLE";
-
-const ACTION_NANONEEDLING_TOGGLE = () => {
-  return {
-    type: NANONEEDLING_TOGGLE
-  };
-};
-
-export default ACTION_NANONEEDLING_TOGGLE;

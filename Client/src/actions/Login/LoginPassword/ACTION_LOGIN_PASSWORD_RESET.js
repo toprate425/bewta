@@ -1,9 +1,0 @@
-const LOGIN_PASSWORD_RESET = "LOGIN_PASSWORD_RESET";
-
-const ACTION_LOGIN_PASSWORD_RESET = () => {
-  return {
-    type: LOGIN_PASSWORD_RESET
-  };
-};
-
-export default ACTION_LOGIN_PASSWORD_RESET;

@@ -1,9 +1,0 @@
-const LOG_OUT_CLICKED_RESET = "LOG_OUT_CLICKED_RESET";
-
-const ACTION_LOG_OUT_CLICKED_RESET = () => {
-  return {
-    type: LOG_OUT_CLICKED_RESET,
-  };
-};
-
-export default ACTION_LOG_OUT_CLICKED_RESET;

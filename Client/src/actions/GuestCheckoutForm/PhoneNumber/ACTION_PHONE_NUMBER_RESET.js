@@ -1,9 +1,0 @@
-const PHONE_NUMBER_RESET = "PHONE_NUMBER_RESET";
-
-const ACTION_PHONE_NUMBER_RESET = () => {
-  return {
-    type: PHONE_NUMBER_RESET
-  };
-};
-
-export default ACTION_PHONE_NUMBER_RESET;
